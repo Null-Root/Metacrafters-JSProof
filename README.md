@@ -6,14 +6,6 @@ This simple JavaScript program allows you to mint, list, and count NFTs (Non-Fun
 
 ## Functions
 
-# NFT Minting Program
-
-## Overview
-
-This simple JavaScript program allows you to mint, list, and count NFTs (Non-Fungible Tokens). Each NFT has specific metadata attributes: name, eye color, shirt type, and bling.
-
-## Functions
-
 ### `mintNFT(_name, _eyeColor, _shirtType, _bling)`
 - **Description**: Mints a new NFT with the given metadata.
 - **Parameters**:
