@@ -33,4 +33,20 @@ listNFTs();
 
 // Get the total supply of NFTs
 getTotalSupply();
+```
 
+## Getting Started
+
+### Installing
+* Open [Gitpod](https://gitpod.io/).
+* Create a new file and paste the code into the file.
+
+### Executing program
+* Run the code.
+* Alternatively, since this is a js code, you can simply paste this in your console (Inspect Element > Console tab) then enter.
+
+## Help
+For any issues, please create an issue
+
+## Authors
+Patrick James Dionisio
